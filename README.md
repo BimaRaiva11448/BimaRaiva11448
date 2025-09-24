@@ -81,7 +81,6 @@
 - **Communication / Public Speaking** · organizing & leading events  
 - **Teamwork & Leadership** · project coordination, chairing orgs  
 - **Learning & Adaptability** · fast learner, open to new tech and languages  
-- (If you want, I can also list technical tools/frameworks you use — tell me and I’ll add them here.)
 
 ## Goals
 1. Secure an internship in **Japan** related to IT / language services.  
