@@ -1,4 +1,4 @@
-## Heya, I'm Bima 👋
+
 <!-- ===========================
      Bima Raiva Satya Pradana
      GitHub Profile README (Dark Blue Neon Theme)
@@ -102,12 +102,3 @@ Click the icons to reach me — **replace placeholders** with your real links / 
 **Enthusiastic English student & leader who loves public speaking, learning languages (EN/JP/AR/RU), and aiming for an internship in Japan — always ready to collaborate.**
 
 ---
-
-### Tips to personalize
-- Replace `youremail@example.com`, `yourhandle`, `@yourchannel`, and `yourprofile` with your real links.  
-- If you want the same design but with different colors or speeds for the waves, tell me which color palette or speed to use and I’ll regenerate the SVG code.  
-- Want a compact version (no banner) or a more feature-rich version (badges for skills, projects section, GitHub stats cards)? I can create that too.
-
----
-
-_If you'd like, I can also produce a smaller mobile-friendly banner or a version that uses GitHub-friendly SVG badges for skills and stats. Which would you prefer next?_  
