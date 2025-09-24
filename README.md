@@ -88,7 +88,6 @@
 3. Grow as a public speaker and contribute to international teams.
 
 ## Contact
-Click the icons to reach me — **replace placeholders** with your real links / email.
 
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
