@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heya, I'm Bima 👋
 
 <!--
 **BimaRaiva11448/BimaRaiva11448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
