@@ -5,7 +5,7 @@
      Copy this into your README.md
    =========================== -->
 
-# Hi, I'm Bima 👋
+# Hi, I'm Fiyster 👋
 **Aspiring English major · Public speaking & IT enthusiast · Team leader**
 
 <div align="center">
